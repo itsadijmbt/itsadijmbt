@@ -1,205 +1,206 @@
-<!-- 
-  ╔═══════════════════════════════════════════════════════════════════════════════════════════╗
-  ║    █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗     ██████╗ ██╗  ██╗ █████╗ ████████╗     ║
-  ║   ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗    ██╔══██╗██║  ██║██╔══██╗╚══██╔══╝     ║
-  ║   ███████║██║  ██║██║   ██║    ╚████╔╝ ███████║    ██████╔╝███████║███████║   ██║        ║
-  ║   ██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║    ██╔══██╗██╔══██║██╔══██║   ██║        ║
-  ║   ██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║    ██████╔╝██║  ██║██║  ██║   ██║        ║
-  ║   ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝        ║
-  ╚═══════════════════════════════════════════════════════════════════════════════════════════╝
--->
+<!-- AWS CONSOLE THEMED PROFILE -->
 
 <div align="center">
 
-<!-- EPIC ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:6366F1,100:3B82F6&height=200&section=header&text=ADITYA%20BHATT&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚡%20Cloud%20Platform%20Engineer%20│%20Go%20Developer%20│%20ICPC%20Regionalist%20⚡&descAlignY=55&descSize=18"/>
+<!-- AWS HEADER BAR -->
+![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Search](https://img.shields.io/badge/🔍_Search_[Alt+S]-232F3E?style=for-the-badge)
+![Region](https://img.shields.io/badge/📍_India_(Mumbai)_▼-232F3E?style=for-the-badge)
+![Account](https://img.shields.io/badge/itsadijmbt_(Cloud--Engineer)_▼-232F3E?style=for-the-badge)
 
-<!-- Matrix Banner -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="30"/>
+</div>
 
-<!-- Epic Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%9C%A8+ICPC+Regionalist+%7C+Rank+%23406+%E2%9C%A8;%F0%9F%94%A5+1500%2B+Problems+Conquered+%F0%9F%94%A5;%F0%9F%9A%80+Building+Infrastructure+That+Scales+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+---
+
+<div align="center">
+
+# ☰ Console Home `ⓘ`
+
+[![Reset](https://img.shields.io/badge/Reset_to_default_layout-232F3E?style=flat-square&labelColor=232F3E)](https://github.com/itsadijmbt)
+[![Add Widgets](https://img.shields.io/badge/+_Add_widgets-FF9900?style=flat-square&labelColor=232F3E)](https://github.com/itsadijmbt)
+
+</div>
+
+---
+
+<!-- MAIN DASHBOARD LAYOUT -->
+<table>
+<tr>
+
+<!-- LEFT SIDEBAR - RECENTLY VISITED SERVICES -->
+<td width="30%" valign="top">
+
+### ⠿ Recently visited `ⓘ` ⋮
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🟠_Kubernetes-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🟠_EC2-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🔴_Docker-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🟣_Terraform-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🔵_Go_Lang-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🟢_Jenkins-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/⚪_GitHub_Actions-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🟡_Lambda-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🟠_IAM-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🔵_VPC-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🟣_RDS-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🔴_S3-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🟢_CloudWatch-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🔵_Route53-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/⚪_C++-0d1117?style=flat-square"/></a>
+
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/🟡_Linux-0d1117?style=flat-square"/></a>
+
+<br/><br/>
+
+[![View all services ✎](https://img.shields.io/badge/View_all_services_✎-1a73e8?style=flat-square)](https://github.com/itsadijmbt)
+
+</td>
+
+<!-- RIGHT MAIN CONTENT -->
+<td width="70%" valign="top">
+
+<!-- ENGINEER PROFILE WIDGET -->
+### ⠿ Engineer Profile `ⓘ` ⋮
+
+```yaml
+Account ID:     itsadijmbt
+Account Name:   Aditya Bhatt
+Role:           Cloud Platform Engineer
+Region:         Dehradun, India 🇮🇳
+Status:         🟢 ACTIVE
+```
+
+| Attribute | Value |
+|:----------|:------|
+| **University** | Graphic Era Deemed University |
+| **Degree** | B.Tech Computer Science |
+| **CGPA** | `8.03 / 10` |
+| **Graduation** | June 2026 |
+| **ICPC Rank** | `#406` 🏆 Regionalist |
+| **Problems Solved** | `1500+` |
 
 <br/>
 
-<!-- Animated Status Cards -->
-<img src="https://img.shields.io/badge/🎯_STATUS-BUILDING_IN_PRODUCTION-8B5CF6?style=for-the-badge&labelColor=1e1e2e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🏆_ICPC-REGIONALIST_%23406-F59E0B?style=for-the-badge&labelColor=1e1e2e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/💻_SOLVED-1500+_PROBLEMS-10B981?style=for-the-badge&labelColor=1e1e2e"/>
+[![Go to Profile Settings ✎](https://img.shields.io/badge/Go_to_Profile_Settings_✎-1a73e8?style=flat-square)](https://www.linkedin.com/in/aditya-bhatt-a8010224b/)
 
-<br/><br/>
+---
 
-<!-- Profile Metrics -->
-<img src="https://komarev.com/ghpvc/?username=itsadijmbt&style=for-the-badge&color=8B5CF6&label=PROFILE+VISITORS"/>
-&nbsp;
-<a href="https://github.com/itsadijmbt?tab=followers">
-  <img src="https://img.shields.io/github/followers/itsadijmbt?style=for-the-badge&color=6366F1&labelColor=1e1e2e&logo=github&label=FOLLOWERS"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/github/stars/itsadijmbt?style=for-the-badge&color=F59E0B&labelColor=1e1e2e&logo=github&label=TOTAL+STARS"/>
+<!-- APPLICATIONS/PROJECTS WIDGET -->
+### ⠿ Applications (6) `ⓘ` [![Create application](https://img.shields.io/badge/Create_application-FF9900?style=flat-square)](https://github.com/itsadijmbt) ⋮
 
-<br/><br/>
+**Select Region** `us-east-1 (Current Region) ▼` 🔍 Find applications
 
-<!-- Social Links Row 1 -->
-<a href="https://www.linkedin.com/in/aditya-bhatt-a8010224b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/itsadijmbt">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://codeforces.com/profile/itsadijmbt">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-<a href="https://peerlist.io/itsadijmbt">
-  <img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white"/>
-</a>
-<a href="https://dev.to/itsadijmbt">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-</a>
-<a href="https://www.buymeacoffee.com/itsadijmbt">
-  <img src="https://img.shields.io/badge/Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
+| Name | Description | Region | Status |
+|:-----|:------------|:-------|:------:|
+| [**k8s-deployment-daemon**](https://github.com/itsadijmbt) | Go-based K8s orchestration engine with fsnotify | `ap-south-1` | 🟢 |
+| [**microservices-aws**](https://github.com/itsadijmbt) | Production K8s with kOps, 60% cost reduction | `us-east-1` | 🟢 |
+| [**RmBuffer**](https://github.com/itsadijmbt/RmBuffer) | File isolation engine, reversible rm -rf | `ap-south-1` | 🟢 |
+| [**GoSIC-Assembler**](https://github.com/itsadijmbt) | 70% faster SIC assembler with Bubble Tea TUI | `global` | 🟢 |
+| [**aws-elastic-beanstalk**](https://github.com/itsadijmbt) | Production infra with RDS, Memcached, RabbitMQ | `us-east-1` | 🟢 |
+| [**maven-workflow**](https://github.com/itsadijmbt) | Multi-VM provisioning with Vagrant & systemd | `ap-south-1` | 🟢 |
 
-</div>
+[![Go to myApplications ✎](https://img.shields.io/badge/Go_to_myApplications_✎-1a73e8?style=flat-square)](https://github.com/itsadijmbt?tab=repositories)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+---
 
-<div align="center">
+<!-- COST AND USAGE / EXPERIENCE WIDGET -->
+### ⠿ Experience & Impact `ⓘ` ⋮
 
-```
- ____  _  _  ____  ____  ____  __  __    ____  _  _  ____  ____
-/ ___)( \/ )/ ___)(_  _)(  __)(  \/  )  (  _ \/ )( \(_  _)(_  _)
-\___ \ )  / \___ \  )(   ) _) )    (    ) _ () __ (  )(    )(
-(____/(__/  (____/ (__) (____)(__/\__)  (____/\_)(_/ (__)  (__)
+**Current Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Impact Metrics**
 
-        ██████╗  ██████╗  ██████╗ ████████╗███████╗██████╗
-        ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝██╔════╝██╔══██╗
-        ██████╔╝██║   ██║██║   ██║   ██║   █████╗  ██║  ██║
-        ██╔══██╗██║   ██║██║   ██║   ██║   ██╔══╝  ██║  ██║
-        ██████╔╝╚██████╔╝╚██████╔╝   ██║   ███████╗██████╔╝
-        ╚═════╝  ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝╚═════╝
+`Cloud Platform Engineer` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊
 
-              [ ████████████████████████ ] 100% COMPLETE
-```
+| Metric | Impact | |
+|:-------|:-------|:-|
+| 🔵 Response Time | `↓ 35%` | ████████░░ |
+| 🟣 Downtime | `↓ 40%` | ███████░░░ |
+| 🟢 Cloud Costs | `↓ 60%` | ██████████ |
+| 🟡 Deploy Overhead | `↓ 30%` | ███████░░░ |
+| 🔴 Build-to-Deploy | `↓ 25%` | ██████░░░░ |
+| ⚪ Data Loss | `0%` | ██████████ |
 
-</div>
+**Savings opportunities** ⓘ &nbsp;&nbsp; ✅ Optimized
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> `$ whoami --verbose`
+[![Go to Experience Details ✎](https://img.shields.io/badge/Go_to_Experience_Details_✎-1a73e8?style=flat-square)](https://www.linkedin.com/in/aditya-bhatt-a8010224b/)
 
-```yaml
-apiVersion: platform.engineer/v1
-kind: CloudEngineer
-metadata:
-  name: Aditya Bhatt
-  namespace: production
-  status: "🟢 ACTIVE"
+</td>
+</tr>
+</table>
 
-spec:
-  education:
-    university: "Graphic Era Deemed University"
-    degree: "B.Tech Computer Science"
-    cgpa: "8.03 / 10"
-    graduation: "June 2026"
-    coursework:
-      - Data Structures & Algorithms (C++)
-      - Operating Systems
-      - Computer Networks  
-      - Database Management Systems
-      - Compiler Design
-      - Discrete Mathematics
+---
 
-  achievements:
-    icpc: { rank: 406, title: "🏆 REGIONALIST" }
-    codeforces: { rating: "Pupil", solved: "1500+" }
-
-  building:
-    - "High-utility Go CLI tools"
-    - "Kubernetes operators"
-    - "Cloud-native infrastructure"
-    - "Platform Engineering tools"
-
-  quote: "I find architecting a self-deploying K8s cluster the most rewarding contest of all."
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="45"> `$ kubectl get experience -A`
-
-```sql
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  NAMESPACE     ROLE                           COMPANY        DURATION               STATUS  ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃  production    Cloud Platform Engineer        SessionVault   Dec 2024 → Jan 2025    ✅ Done ┃
-┃  development   Software Developer Intern      Proactivist    Aug 2023 → Sep 2023    ✅ Done ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<div align="center">
+<!-- WORK HISTORY WIDGET -->
 <table>
 <tr>
 <td width="50%">
 
-<h3 align="center">☁️ Cloud Platform Engineer</h3>
-<p align="center"><strong>@SessionVault</strong> • Dec 2024 → Jan 2025</p>
+### ⠿ SessionVault `ⓘ` ⋮
 
-```go
-package experience
-
-type SessionVault struct {
-    // Infrastructure & CI/CD
-    Jenkins     "Docker-based CI/CD pipeline"
-    AWS         "EC2, VPC, IAM, S3 provisioning"
-    
-    // Go Development  
-    Daemon      "K8s deployment orchestrator"
-    Fsnotify    "Real-time file watching"
-    Mutex       "Concurrent safe operations"
-    Rollback    "service.last capability"
-    
-    // Monitoring
-    Slack       "Deployment failure alerts"
-    GitHub      "Open source contributor"
-}
 ```
+┌─────────────────────────────────────────┐
+│  Cloud Platform Engineer                │
+│  December 2024 → January 2025 | Remote  │
+├─────────────────────────────────────────┤
+│  Type: Independent Contractor           │
+│  Status: ✅ Completed                   │
+└─────────────────────────────────────────┘
+```
+
+| Service | Configuration |
+|:--------|:-------------|
+| **Jenkins** | Docker-based CI/CD pipeline |
+| **AWS** | EC2, VPC, IAM, S3 provisioning |
+| **Go Daemon** | K8s deployment orchestrator |
+| **fsnotify** | Real-time file watching |
+| **sync.Mutex** | Concurrent safe operations |
+| **Rollback** | service.last capability |
+| **Slack** | Deployment failure alerts |
 
 <p align="center">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
 </td>
 <td width="50%">
 
-<h3 align="center">💻 Software Developer Intern</h3>
-<p align="center"><strong>@Proactivist</strong> • Aug 2023 → Sep 2023</p>
+### ⠿ Proactivist `ⓘ` ⋮
 
-```javascript
-const Proactivist = {
-    // Frontend Development
-    editor: "Multi-language code editor",
-    framework: "React.js application",
-    api: "Monaco Editor integration",
-    
-    // Features Built
-    beautify: "Code beautification",
-    snippets: {
-        save: true,
-        download: true,
-        upload: true,
-        share: true
-    },
-    
-    // Collaboration
-    design: "Responsive UI/UX"
-};
 ```
+┌─────────────────────────────────────────┐
+│  Software Developer Intern              │
+│  August 2023 → September 2023 | Remote  │
+├─────────────────────────────────────────┤
+│  Type: Internship                       │
+│  Status: ✅ Completed                   │
+└─────────────────────────────────────────┘
+```
+
+| Service | Configuration |
+|:--------|:-------------|
+| **React.js** | Multi-language code editor |
+| **Monaco API** | Editor integration |
+| **Beautify** | Code beautification |
+| **Snippets** | Save/Download/Upload |
+| **UI/UX** | Responsive design |
+
+<br/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -210,587 +211,211 @@ const Proactivist = {
 </td>
 </tr>
 </table>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> `$ neofetch --tech-stack`
+<!-- TECH STACK WIDGET -->
+### ⠿ Service Catalog `ⓘ` [![+ Add widgets](https://img.shields.io/badge/+_Add_widgets-FF9900?style=flat-square)](https://github.com/itsadijmbt) ⋮
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
 
-```
-                    ████████████████████████████
-                ████                            ████
-              ██    ████████████████████████████    ██
-            ██  ████                            ████  ██
-            ██  ██  ████████████████████████████  ██  ██
-            ██  ██  ██                        ██  ██  ██
-            ██  ██  ██   T E C H  S T A C K   ██  ██  ██
-            ██  ██  ██                        ██  ██  ██
-            ██  ██  ████████████████████████████  ██  ██
-            ██  ████                            ████  ██
-              ██    ████████████████████████████    ██
-                ████                            ████
-                    ████████████████████████████
-```
+**☁️ Cloud**
 
-</div>
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50"/>
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50"/>
 
-<br/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=terraform" width="50"/>
 
-<!-- ═══════════════════ CLOUD & INFRASTRUCTURE ═══════════════════ -->
+</td>
+<td align="center" width="25%">
 
-<div align="center">
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-8B5CF6?style=flat-square"/>
-<br/>
-<img src="https://img.shields.io/badge/☁️_CLOUD_&_INFRASTRUCTURE-8B5CF6?style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-8B5CF6?style=flat-square"/>
-</div>
+**🔧 DevOps**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=jenkins" width="50"/>
+<img src="https://skillicons.dev/icons?i=githubactions" width="50"/>
 
-<div align="center">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="75" height="75" />
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="75" height="75" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="75" height="75" />
-<img src="https://skillicons.dev/icons?i=terraform" width="75" height="75" />
-</div>
+<img src="https://skillicons.dev/icons?i=ansible" width="50"/>
+<img src="https://skillicons.dev/icons?i=linux" width="50"/>
 
-<br/>
+</td>
+<td align="center" width="25%">
 
-<div align="center">
+**💻 Languages**
 
-| Technology | Expertise |
-|:----------:|:----------|
-| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" width="80"/> | `VPC` `EC2` `ELB` `ASG` `RDS` `S3` `EFS` `CloudWatch` `IAM` `ECR` `Lambda` |
-| <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" width="80"/> | `kOps` `Helm` `Ingress NGINX` `Service Mesh` `Operators` `CRDs` |
-| <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="80"/> | `Compose` `Multi-stage Builds` `Container Orchestration` `Swarm` |
-| <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" width="80"/> | `Infrastructure as Code` `State Management` `Modules` `Workspaces` |
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=go" width="50"/>
 
-</div>
+<img src="https://skillicons.dev/icons?i=c" width="50"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/>
 
-<br/>
+</td>
+<td align="center" width="25%">
 
-<!-- ═══════════════════ DEVOPS & CI/CD ═══════════════════ -->
+**🛠️ Tools**
 
-<div align="center">
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-6366F1?style=flat-square"/>
-<br/>
-<img src="https://img.shields.io/badge/🔧_DEVOPS_&_CI/CD-6366F1?style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-6366F1?style=flat-square"/>
-</div>
+<img src="https://skillicons.dev/icons?i=linux" width="50"/>
+<img src="https://skillicons.dev/icons?i=bash" width="50"/>
 
-<br/>
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<img src="https://skillicons.dev/icons?i=neovim" width="50"/>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,linux&theme=dark" height="75"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-| Technology | Expertise |
-|:----------:|:----------|
-| <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" width="80"/> | `Declarative Pipelines` `Groovy DSL` `Shared Libraries` `Docker Agents` |
-| <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" width="80"/> | `Workflows` `Matrix Builds` `Self-hosted Runners` `Webhooks` |
-| <img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white" width="80"/> | `Multi-VM Orchestration` `Provisioning` `Box Management` |
-| <img src="https://img.shields.io/badge/GitOps-FC6D26?style=flat-square&logo=git&logoColor=white" width="80"/> | `ArgoCD` `Flux` `Continuous Deployment` `Reconciliation` |
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════ PROGRAMMING LANGUAGES ═══════════════════ -->
-
-<div align="center">
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-3B82F6?style=flat-square"/>
-<br/>
-<img src="https://img.shields.io/badge/💻_PROGRAMMING_LANGUAGES-3B82F6?style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-3B82F6?style=flat-square"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="75" height="75" />
-<img src="https://skillicons.dev/icons?i=go" width="75" height="75" />
-<img src="https://skillicons.dev/icons?i=c" width="75" height="75" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="75" height="75" />
-</div>
-
-<br/>
-
-<div align="center">
-
-| Language | Expertise |
-|:--------:|:----------|
-| <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" width="80"/> | `DSA` `Competitive Programming` `STL` `Memory Management` `OOP` |
-| <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" width="80"/> | `CLI Tools` `Daemons` `Concurrency` `Microservices` `Goroutines` |
-| <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" width="80"/> | `Systems Programming` `Low-level Operations` `Pointers` |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="80"/> | `React.js` `Node.js` `Monaco Editor` `Frontend` `ES6+` |
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════ TOOLS & SYSTEMS ═══════════════════ -->
-
-<div align="center">
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-10B981?style=flat-square"/>
-<br/>
-<img src="https://img.shields.io/badge/🛠️_TOOLS_&_SYSTEMS-10B981?style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-10B981?style=flat-square"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,git,nginx,neovim,vim&theme=dark" height="75"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-| Tool | Expertise |
-|:----:|:----------|
-| <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" width="80"/> | `CentOS` `Ubuntu` `systemd` `Package Management` `Shell` |
-| <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" width="80"/> | `Scripting` `Automation` `Process Management` `Cron` |
-| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" width="80"/> | `Version Control` `Branching Strategies` `Hooks` `Rebasing` |
-| <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" width="80"/> | `Reverse Proxy` `Load Balancing` `Ingress Controller` |
-
-</div>
-
-<br/>
+</td>
+</tr>
+</table>
 
 <details>
-<summary><h3>🔽 AWS Services Deep Dive</h3></summary>
-
-<div align="center">
+<summary><b>📋 View Detailed Service Configuration</b></summary>
 <br/>
 
-| Category | Services | Proficiency |
-|:--------:|:---------|:-----------:|
-| **Compute** | EC2, Auto Scaling, Elastic Beanstalk, Lambda | ⭐⭐⭐⭐⭐ |
-| **Storage** | S3, EBS, EFS | ⭐⭐⭐⭐⭐ |
-| **Database** | RDS, ElastiCache, Amazon MQ | ⭐⭐⭐⭐ |
-| **Networking** | VPC, ELB, Route53, Target Groups | ⭐⭐⭐⭐⭐ |
-| **Security** | IAM, Security Groups, KMS | ⭐⭐⭐⭐⭐ |
-| **Monitoring** | CloudWatch, CloudWatch Logs | ⭐⭐⭐⭐⭐ |
-| **Containers** | ECR, ECS | ⭐⭐⭐⭐ |
+| Category | Services | Status |
+|:---------|:---------|:------:|
+| **Compute** | `EC2` `Lambda` `Elastic Beanstalk` `Auto Scaling` | 🟢 |
+| **Storage** | `S3` `EBS` `EFS` | 🟢 |
+| **Database** | `RDS` `ElastiCache` `Amazon MQ` | 🟢 |
+| **Networking** | `VPC` `ELB` `Route53` `CloudFront` | 🟢 |
+| **Containers** | `ECR` `ECS` `Kubernetes (kOps)` | 🟢 |
+| **CI/CD** | `Jenkins` `GitHub Actions` `ArgoCD` | 🟢 |
+| **IaC** | `Terraform` `Ansible` `Vagrant` | 🟢 |
+| **Monitoring** | `CloudWatch` `Logs` `Metrics` | 🟢 |
+| **Security** | `IAM` `Security Groups` `KMS` | 🟢 |
 
-</div>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> `$ ls -la ~/projects/`
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║    ███████╗███████╗ █████╗ ████████╗██╗   ██╗██████╗ ███████╗██████╗     ║
-║    ██╔════╝██╔════╝██╔══██╗╚══██╔══╝██║   ██║██╔══██╗██╔════╝██╔══██╗    ║
-║    █████╗  █████╗  ███████║   ██║   ██║   ██║██████╔╝█████╗  ██║  ██║    ║
-║    ██╔══╝  ██╔══╝  ██╔══██║   ██║   ██║   ██║██╔══██╗██╔══╝  ██║  ██║    ║
-║    ██║     ███████╗██║  ██║   ██║   ╚██████╔╝██║  ██║███████╗██████╔╝    ║
-║    ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝     ║
-║                                                                           ║
-║                        P  R  O  J  E  C  T  S                             ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
+<!-- ACHIEVEMENTS WIDGET -->
+### ⠿ Achievements & Certifications `ⓘ` ⋮
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">⚙️ K8s Deployment Daemon</h3>
-<p align="center"><em>Go-Based Kubernetes Orchestration Engine</em></p>
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
-```yaml
-specs:
-  file_watching: fsnotify
-  concurrency: sync.Mutex
-  updates: Rolling
-  rollback: service.last
-  alerting: Slack
-  status: "🟢 PRODUCTION"
+```
+┌─────────────────────────────────────┐
+│         🏆 ICPC REGIONALIST         │
+│                                     │
+│            RANK #406                │
+│         Asia Regional 2024          │
+│                                     │
+│     ████████████████████████████    │
+│     █  ✓  C E R T I F I E D   █    │
+│     ████████████████████████████    │
+└─────────────────────────────────────┘
 ```
 
-**✨ Features:**
-- Real-time file watching
-- Mutex-based concurrency  
-- Automated rolling updates
-- Slack failure alerts
-
-<div align="center">
-<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/View_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
+[![ICPC](https://img.shields.io/badge/ICPC-Rank_406-FFD700?style=for-the-badge)](https://icpc.global)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">☸️ Microservices on AWS</h3>
-<p align="center"><em>Production-Grade K8s Architecture</em></p>
-
-<div align="center">
-
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
-```yaml
-metrics:
-  deployment_overhead: "↓ 30%"
-  cloud_costs: "↓ 60%"
-  cluster: Single AZ
-  state_backend: S3
-  status: "🟢 PRODUCTION"
+```
+┌─────────────────────────────────────┐
+│       💻 CODEFORCES PUPIL           │
+│                                     │
+│          1500+ SOLVED               │
+│       Algorithmic Mastery           │
+│                                     │
+│     ████████████████████████████    │
+│     █    ●  A C T I V E      █    │
+│     ████████████████████████████    │
+└─────────────────────────────────────┘
 ```
 
-**✨ Features:**
-- kOps managed cluster
-- Ingress NGINX + ALB
-- initContainers automation
-- Route53 DNS integration
-
-<div align="center">
-<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/View_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">🔄 RmBuffer</h3>
-<p align="center"><em>Go-Based File Isolation Engine</em></p>
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-```yaml
-metrics:
-  data_loss: "0%"
-  concurrent_tests: "50+ passed"
-  recovery_time: "< 2 seconds"
-  capacity: Multi-GB
-  status: "🟢 BATTLE TESTED"
-```
-
-**✨ Features:**
-- Reversible `rm -rf` 
-- Tar streaming backup
-- Goroutines + sync.Mutex
-- Multi-GB recovery
-
-<div align="center">
-<a href="https://github.com/itsadijmbt/RmBuffer"><img src="https://img.shields.io/badge/View_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">⚡ GoSIC Assembler</h3>
-<p align="center"><em>High-Performance SIC Assembler</em></p>
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Terminal](https://img.shields.io/badge/TUI-FF69B4?style=for-the-badge&logo=windowsterminal&logoColor=white)
-
-</div>
-
-```yaml
-benchmarks:
-  compile_time: "12ms"
-  speed_gain: "70% faster"
-  platform: Cross-OS
-  interface: Bubble Tea TUI
-  status: "🟢 BLAZING FAST"
-```
-
-**✨ Features:**
-- 70% faster than browsers
-- Cross-platform TUI
-- Opcode & symbol tables
-- Text record generation
-
-<div align="center">
-<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/View_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">🚀 AWS Elastic Beanstalk</h3>
-<p align="center"><em>Production Cloud Infrastructure</em></p>
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-
-</div>
-
-```yaml
-metrics:
-  response_time: "↓ 35%"
-  downtime: "↓ 40%"
-  idle_costs: Eliminated
-  status: "🟢 HIGHLY AVAILABLE"
-```
-
-**Stack:** `RDS` `Memcached` `RabbitMQ` `S3` `CloudWatch` `Auto Scaling` `VPC` `ELB`
-
-</td>
-<td width="50%">
-
-<h3 align="center">🖥️ Maven Workflow</h3>
-<p align="center"><em>Distributed Linux Environment</em></p>
-
-<div align="center">
-
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-
-</div>
-
-```yaml
-metrics:
-  build_deploy: "↓ 25%"
-  vms: Multiple
-  os: CentOS
-  service: systemd
-  status: "🟢 AUTOMATED"
-```
-
-**Stack:** `Vagrant` `Maven` `Tomcat` `systemd` `Multi-VM`
+[![Codeforces](https://img.shields.io/badge/Codeforces-itsadijmbt-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/itsadijmbt)
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> `$ cat /proc/achievements`
-
-<div align="center">
-
-```
-   ██████╗ ██████╗ ███╗   ███╗██████╗ ███████╗████████╗██╗████████╗██╗██╗   ██╗███████╗
-  ██╔════╝██╔═══██╗████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██║╚══██╔══╝██║██║   ██║██╔════╝
-  ██║     ██║   ██║██╔████╔██║██████╔╝█████╗     ██║   ██║   ██║   ██║██║   ██║█████╗  
-  ██║     ██║   ██║██║╚██╔╝██║██╔═══╝ ██╔══╝     ██║   ██║   ██║   ██║╚██╗ ██╔╝██╔══╝  
-  ╚██████╗╚██████╔╝██║ ╚═╝ ██║██║     ███████╗   ██║   ██║   ██║   ██║ ╚████╔╝ ███████╗
-   ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚══════╝   ╚═╝   ╚═╝   ╚═╝   ╚═╝  ╚═══╝  ╚══════╝
-                                                                                        
-                    ██████╗ ██████╗  ██████╗  ██████╗ ██████╗  █████╗ ███╗   ███╗       
-                    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝ ██╔══██╗██╔══██╗████╗ ████║       
-                    ██████╔╝██████╔╝██║   ██║██║  ███╗██████╔╝███████║██╔████╔██║       
-                    ██╔═══╝ ██╔══██╗██║   ██║██║   ██║██╔══██╗██╔══██║██║╚██╔╝██║       
-                    ██║     ██║  ██║╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║       
-                    ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝       
-```
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/🏆_ICPC_REGIONALIST-FFD700?style=for-the-badge&labelColor=1e1e2e" width="250"/>
-
-<br/><br/>
-
-### **RANK #406**
-#### Asia Regional
-
-<br/>
-
-*Elite competitive programmer*  
-*among thousands of participants*
-
-<br/>
-
-<img src="https://img.shields.io/badge/✓_CERTIFIED-FFD700?style=flat-square"/>
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/💻_CODEFORCES_PUPIL-1F8ACB?style=for-the-badge&labelColor=1e1e2e" width="250"/>
-
-<br/><br/>
-
-### **1500+ SOLVED**
-#### Algorithmic Mastery
-
-<br/>
-
-*Problem-solving expertise*  
-*across multiple domains*
-
-<br/>
-
-<img src="https://img.shields.io/badge/●_ACTIVE-10B981?style=flat-square"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<a href="https://codeforces.com/profile/itsadijmbt">
-  <img src="https://img.shields.io/badge/Codeforces-itsadijmbt-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://icpc.global">
-  <img src="https://img.shields.io/badge/ICPC-Rank_406-FFD700?style=for-the-badge"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="40"> `$ cat /var/log/github.log`
+<!-- GITHUB ANALYTICS WIDGET -->
+### ⠿ Usage Analytics `ⓘ` ⋮
 
 <div align="center">
 
-```
- ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗      █████╗ ███╗   ██╗ █████╗ ██╗  ██╗   ██╗████████╗██╗ ██████╗███████╗
-██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ██╔══██╗████╗  ██║██╔══██╗██║  ╚██╗ ██╔╝╚══██╔══╝██║██╔════╝██╔════╝
-██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝    ███████║██╔██╗ ██║███████║██║   ╚████╔╝    ██║   ██║██║     ███████╗
-██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗    ██╔══██║██║╚██╗██║██╔══██║██║    ╚██╔╝     ██║   ██║██║     ╚════██║
-╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝    ██║  ██║██║ ╚████║██║  ██║███████╗██║      ██║   ██║╚██████╗███████║
- ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝      ╚═╝   ╚═╝ ╚═════╝╚══════╝
-```
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsadijmbt&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=c9d1d9&ring_color=FF9900&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsadijmbt&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&sideLabels=FF9900&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=58a6ff"/>
 
-<br/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadijmbt&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=c9d1d9"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsadijmbt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9&ring_color=8B5CF6&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsadijmbt&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=8B5CF6&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6366F1" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadijmbt&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsadijmbt&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=6366F1&point=F59E0B&area=true&area_color=8B5CF6" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsadijmbt&theme=github-dark&hide_border=true&bg_color=0d1117&color=FF9900&line=FF9900&point=58a6ff&area=true&area_color=FF9900"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+[![Go to Analytics Dashboard ✎](https://img.shields.io/badge/Go_to_Analytics_Dashboard_✎-1a73e8?style=flat-square)](https://github.com/itsadijmbt)
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> `$ fortune | lolcat`
+---
+
+<!-- DAILY QUOTE WIDGET -->
+### ⠿ Daily Insights `ⓘ` ⋮
 
 <div align="center">
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming"/>
 </a>
-
-<br/><br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%238B5CF6&aColor=%23c9d1d9&borderColor=%238B5CF6&bgColor=%230d1117" alt="Joke"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+---
 
-## <img src="https://media.giphy.com/media/pUeXcg80cO8I8/giphy.gif" width="40"> `$ netstat -tulpn`
+<!-- CONNECTIONS WIDGET -->
+### ⠿ Active Connections `ⓘ` ⋮
+
+```
+Proto  Local Address          Service              Status
+─────  ─────────────          ───────              ──────
+tcp    linkedin.com:443       Professional         🟢 CONNECTED
+tcp    github.com:443         Open Source          🟢 CONNECTED
+tcp    codeforces.com:443     Competitive          🟢 CONNECTED
+tcp    peerlist.io:443        Portfolio            🟢 CONNECTED
+tcp    dev.to:443             Tech Blog            🟢 CONNECTED
+tcp    buymeacoffee.com:443   Support              🟢 CONNECTED
+```
 
 <div align="center">
 
-```sql
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                                                   ┃
-┃                         E S T A B L I S H I N G   C O N N E C T I O N                            ┃
-┃                                                                                                   ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃   PROTO    LOCAL ADDRESS              SERVICE                STATUS                              ┃
-┃   ─────    ─────────────              ───────                ──────                              ┃
-┃   tcp      linkedin.com:443           Professional           🟢 LISTENING                        ┃
-┃   tcp      github.com:443             Open Source            🟢 LISTENING                        ┃
-┃   tcp      codeforces.com:443         Competitive            🟢 LISTENING                        ┃
-┃   tcp      peerlist.io:443            Portfolio              🟢 LISTENING                        ┃
-┃   tcp      dev.to:443                 Tech Blog              🟢 LISTENING                        ┃
-┃   tcp      buymeacoffee.com:443       Support                🟢 LISTENING                        ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                                                                                   ┃
-┃   🚀 STATUS: Ready to accept incoming connections                                                ┃
-┃   📡 MODE: Open for collaboration                                                                ┃
-┃   🎯 INTEREST: Platform Engineering, Go CLI, K8s Operators                                       ┃
-┃                                                                                                   ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhatt-a8010224b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsadijmbt)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/itsadijmbt)
 
-<br/>
-
-<a href="https://www.linkedin.com/in/aditya-bhatt-a8010224b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/itsadijmbt">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://codeforces.com/profile/itsadijmbt">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-<a href="https://peerlist.io/itsadijmbt">
-  <img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white"/>
-</a>
-<a href="https://dev.to/itsadijmbt">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-</a>
-<a href="https://www.buymeacoffee.com/itsadijmbt">
-  <img src="https://img.shields.io/badge/Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-```
-╭─────────────────────────────────────────────────────────────────────────────╮
-│                                                                             │
-│   💡 "I find architecting a self-deploying Kubernetes cluster              │
-│        to be the most rewarding contest of all."                           │
-│                                                                             │
-╰─────────────────────────────────────────────────────────────────────────────╯
-```
-
-<br/>
-
-<img src="https://img.shields.io/badge/Made_with-Go_❤️_&_Kubernetes-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-
-<br/><br/>
-
-**⭐ If you find my work interesting, consider giving my repos a star! ⭐**
+[![Peerlist](https://img.shields.io/badge/Peerlist-Portfolio-00AA45?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/itsadijmbt)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/itsadijmbt)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/itsadijmbt)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=120&section=footer&animation=twinkling"/>
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+```
+╭────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                │
+│   💡 "I find architecting a self-deploying Kubernetes cluster                 │
+│        to be the most rewarding contest of all."                              │
+│                                                                                │
+╰────────────────────────────────────────────────────────────────────────────────╯
+```
+
+<br/>
+
+[![Want to see another widget? Tell us!](https://img.shields.io/badge/Want_to_see_another_widget%3F_Tell_us!-1a73e8?style=flat-square)](https://github.com/itsadijmbt)
+[![+ Add widgets](https://img.shields.io/badge/+_Add_widgets-FF9900?style=flat-square)](https://github.com/itsadijmbt)
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=itsadijmbt&style=flat-square&color=FF9900&label=Console+Sessions)
+
+<br/>
+
+[![Made with](https://img.shields.io/badge/Made_with-Go_❤️_&_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/itsadijmbt)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:FF9900,100:232F3E&height=100&section=footer"/>
