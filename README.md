@@ -1,15 +1,11 @@
 <!-- 
   ╔═══════════════════════════════════════════════════════════════════════════════════════════╗
-  ║                                                                                           ║
   ║    █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗     ██████╗ ██╗  ██╗ █████╗ ████████╗     ║
   ║   ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗    ██╔══██╗██║  ██║██╔══██╗╚══██╔══╝     ║
   ║   ███████║██║  ██║██║   ██║    ╚████╔╝ ███████║    ██████╔╝███████║███████║   ██║        ║
   ║   ██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║    ██╔══██╗██╔══██║██╔══██║   ██║        ║
   ║   ██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║    ██████╔╝██║  ██║██║  ██║   ██║        ║
   ║   ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝        ║
-  ║                                                                                           ║
-  ║                     Cloud Platform Engineer • Go Developer • ICPC Regionalist             ║
-  ║                                                                                           ║
   ╚═══════════════════════════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -48,67 +44,66 @@
 
 <br/><br/>
 
-<!-- Social Links - Glowing Style -->
+<!-- Social Links Row 1 -->
 <a href="https://www.linkedin.com/in/aditya-bhatt-a8010224b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/itsadijmbt">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/itsadijmbt">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<a href="https://peerlist.io/itsadijmbt">
+  <img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white"/>
+</a>
+<a href="https://dev.to/itsadijmbt">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+<a href="https://www.buymeacoffee.com/itsadijmbt">
+  <img src="https://img.shields.io/badge/Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<!-- SYSTEM INITIALIZATION -->
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                              ║
-║   ░██████╗██╗░░░██╗░██████╗████████╗███████╗███╗░░░███╗  ██╗███╗░░██╗██╗████████╗           ║
-║   ██╔════╝╚██╗░██╔╝██╔════╝╚══██╔══╝██╔════╝████╗░████║  ██║████╗░██║██║╚══██╔══╝           ║
-║   ╚█████╗░░╚████╔╝░╚█████╗░░░░██║░░░█████╗░░██╔████╔██║  ██║██╔██╗██║██║░░░██║░░░           ║
-║   ░╚═══██╗░░╚██╔╝░░░╚═══██╗░░░██║░░░██╔══╝░░██║╚██╔╝██║  ██║██║╚████║██║░░░██║░░░           ║
-║   ██████╔╝░░░██║░░░██████╔╝░░░██║░░░███████╗██║░╚═╝░██║  ██║██║░╚███║██║░░░██║░░░           ║
-║   ╚═════╝░░░░╚═╝░░░╚═════╝░░░░╚═╝░░░╚══════╝╚═╝░░░░░╚═╝  ╚═╝╚═╝░░╚══╝╚═╝░░░╚═╝░░░           ║
-║                                                                                              ║
-║                              [■■■■■■■■■■■■■■■■■■■■] 100% LOADED                              ║
-║                                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════╝
+ ____  _  _  ____  ____  ____  __  __    ____  _  _  ____  ____
+/ ___)( \/ )/ ___)(_  _)(  __)(  \/  )  (  _ \/ )( \(_  _)(_  _)
+\___ \ )  / \___ \  )(   ) _) )    (    ) _ () __ (  )(    )(
+(____/(__/  (____/ (__) (____)(__/\__)  (____/\_)(_/ (__)  (__)
+
+        ██████╗  ██████╗  ██████╗ ████████╗███████╗██████╗
+        ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝██╔════╝██╔══██╗
+        ██████╔╝██║   ██║██║   ██║   ██║   █████╗  ██║  ██║
+        ██╔══██╗██║   ██║██║   ██║   ██║   ██╔══╝  ██║  ██║
+        ██████╔╝╚██████╔╝╚██████╔╝   ██║   ███████╗██████╔╝
+        ╚═════╝  ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝╚═════╝
+
+              [ ████████████████████████ ] 100% COMPLETE
 ```
 
 </div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> `$ cat /home/aditya/README.md`
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> `$ whoami --verbose`
 
 ```yaml
-# ╔═══════════════════════════════════════════════════════════════════════════════╗
-# ║                    CONFIGURATION FILE • ADITYA BHATT                          ║
-# ╚═══════════════════════════════════════════════════════════════════════════════╝
-
 apiVersion: platform.engineer/v1
-kind: Developer
+kind: CloudEngineer
 metadata:
   name: Aditya Bhatt
   namespace: production
-  annotations:
-    role: "Cloud Platform Engineer"
-    location: "Dehradun, India"
-    status: "🟢 ACTIVE"
+  status: "🟢 ACTIVE"
 
 spec:
   education:
-    university: Graphic Era Deemed University
-    degree: Bachelor of Technology in Computer Science
-    cgpa: 8.03 / 10
-    graduation: June 2026
+    university: "Graphic Era Deemed University"
+    degree: "B.Tech Computer Science"
+    cgpa: "8.03 / 10"
+    graduation: "June 2026"
     coursework:
       - Data Structures & Algorithms (C++)
       - Operating Systems
@@ -118,80 +113,62 @@ spec:
       - Discrete Mathematics
 
   achievements:
-    competitive_programming:
-      - platform: ICPC
-        title: "🏆 REGIONALIST"
-        rank: 406
-        status: CERTIFIED
-      - platform: Codeforces
-        rating: Pupil
-        problems_solved: "1500+"
-        status: ACTIVE
+    icpc: { rank: 406, title: "🏆 REGIONALIST" }
+    codeforces: { rating: "Pupil", solved: "1500+" }
 
-  interests:
-    - "Building high-utility Go CLI tools"
-    - "Kubernetes operators & controllers"
-    - "Platform Engineering & GitOps"
+  building:
+    - "High-utility Go CLI tools"
+    - "Kubernetes operators"
     - "Cloud-native infrastructure"
+    - "Platform Engineering tools"
 
-  philosophy: |
-    "I find architecting a self-deploying Kubernetes cluster 
-     to be the most rewarding contest of all."
+  quote: "I find architecting a self-deploying K8s cluster the most rewarding contest of all."
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="45"> `$ kubectl get experience -A -o wide`
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="45"> `$ kubectl get experience -A`
 
+```sql
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  NAMESPACE     ROLE                           COMPANY        DURATION               STATUS  ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃  production    Cloud Platform Engineer        SessionVault   Dec 2024 → Jan 2025    ✅ Done ┃
+┃  development   Software Developer Intern      Proactivist    Aug 2023 → Sep 2023    ✅ Done ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
-NAMESPACE        NAME                      ROLE                         COMPANY         DURATION              STATUS
-───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-production       cloud-platform-engineer   Platform Engineer            SessionVault    Dec 2024 → Jan 2025   ✓ Completed
-development      software-dev-intern       Software Developer Intern    Proactivist     Aug 2023 → Sep 2023   ✓ Completed
-```
-
-<br/>
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-<h3 align="center">
-<img src="https://img.shields.io/badge/☁️-8B5CF6?style=for-the-badge" width="30"/>
-Cloud Platform Engineer
-</h3>
+<h3 align="center">☁️ Cloud Platform Engineer</h3>
+<p align="center"><strong>@SessionVault</strong> • Dec 2024 → Jan 2025</p>
 
-<p align="center">
-<strong>@SessionVault</strong> • Independent Contractor<br/>
-<code>December 2024 → January 2025</code> • Remote
-</p>
+```go
+package experience
 
-```diff
-@@  INFRASTRUCTURE & CI/CD  @@
-+ Built Docker-based Jenkins CI/CD pipeline
-+ Provisioned AWS infrastructure for production
-  ├── EC2 instances
-  ├── VPC networking
-  ├── IAM policies
-  └── S3 storage
-
-@@  GO DEVELOPMENT  @@
-+ Developed Kubernetes deployment daemon in Go
-  ├── fsnotify file watching
-  ├── mutex-based concurrency control
-  ├── automated rolling updates
-  └── service.last rollback capability
-
-@@  MONITORING & ALERTING  @@
-+ Integrated Slack alerting for failures
-+ Maintained codebase as GitHub contributor
-+ Improved operational visibility
+type SessionVault struct {
+    // Infrastructure & CI/CD
+    Jenkins     "Docker-based CI/CD pipeline"
+    AWS         "EC2, VPC, IAM, S3 provisioning"
+    
+    // Go Development  
+    Daemon      "K8s deployment orchestrator"
+    Fsnotify    "Real-time file watching"
+    Mutex       "Concurrent safe operations"
+    Rollback    "service.last capability"
+    
+    // Monitoring
+    Slack       "Deployment failure alerts"
+    GitHub      "Open source contributor"
+}
 ```
 
 <p align="center">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
@@ -200,34 +177,29 @@ Cloud Platform Engineer
 </td>
 <td width="50%">
 
-<h3 align="center">
-<img src="https://img.shields.io/badge/💻-6366F1?style=for-the-badge" width="30"/>
-Software Developer Intern
-</h3>
+<h3 align="center">💻 Software Developer Intern</h3>
+<p align="center"><strong>@Proactivist</strong> • Aug 2023 → Sep 2023</p>
 
-<p align="center">
-<strong>@Proactivist</strong><br/>
-<code>August 2023 → September 2023</code> • Remote
-</p>
-
-```diff
-@@  FRONTEND DEVELOPMENT  @@
-+ Built multi-language code editor in React.js
-+ Integrated Monaco Editor API
-+ Implemented code beautification
-
-@@  FEATURE IMPLEMENTATION  @@
-+ Built snippet sharing functionality
-  ├── Save snippets
-  ├── Download snippets
-  └── Upload snippets
-
-@@  COLLABORATION  @@
-+ Collaborated on responsive design
-+ Worked with cross-functional team
+```javascript
+const Proactivist = {
+    // Frontend Development
+    editor: "Multi-language code editor",
+    framework: "React.js application",
+    api: "Monaco Editor integration",
+    
+    // Features Built
+    beautify: "Code beautification",
+    snippets: {
+        save: true,
+        download: true,
+        upload: true,
+        share: true
+    },
+    
+    // Collaboration
+    design: "Responsive UI/UX"
+};
 ```
-
-<br/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -242,159 +214,198 @@ Software Developer Intern
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> `$ docker images --format "table {{.Repository}}\t{{.Tag}}"`
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> `$ neofetch --tech-stack`
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                           T E C H   A R S E N A L                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<!-- Cloud & Infrastructure -->
-<h3>
-<img src="https://img.shields.io/badge/☁️_CLOUD_&_INFRASTRUCTURE-8B5CF6?style=for-the-badge"/>
-</h3>
-
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=terraform" width="80" height="80" />
-
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│  AWS        │  VPC • EC2 • ELB • ASG • RDS • S3 • EFS • CloudWatch • IAM • ECR • Lambda │
-│  Kubernetes │  kOps • Helm • Ingress NGINX • Service Mesh • Operators                   │
-│  Docker     │  Compose • Multi-stage Builds • Container Orchestration                   │
-│  Terraform  │  Infrastructure as Code • State Management • Modules                      │
-└─────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-<!-- DevOps & CI/CD -->
-<h3>
-<img src="https://img.shields.io/badge/🔧_DEVOPS_&_CI/CD-6366F1?style=for-the-badge"/>
-</h3>
-
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,linux&theme=dark" height="80"/>
-
-<br/>
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────────┐
-│  Jenkins       │  Declarative Pipelines • Groovy DSL • Shared Libraries • Docker Agents     │
-│  GitHub Actions│  Workflows • Workflows • Webhooks                                          │
-│  Vagrant       │  Multi-VM Orchestration • Provisioning • Box Management                    │
-│  GitOps        │  Continuous Deployment                                                     │
-└──────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-<!-- Programming Languages -->
-<h3>
-<img src="https://img.shields.io/badge/💻_PROGRAMMING_LANGUAGES-3B82F6?style=for-the-badge"/>
-</h3>
-
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="80" height="80" />
-<img src="https://skillicons.dev/icons?i=go" width="80" height="80" />
-<img src="https://skillicons.dev/icons?i=c" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" />
-
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  C++        │  DSA • Competitive Programming • STL • Memory Management     │
-│  Go         │  CLI Tools • Daemons • Concurrency • Microservices           │
-│  C          │  Systems Programming • Low-level Operations                  │
-│  JavaScript │  React.js • Node.js • Monaco Editor • Frontend               │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-<!-- Tools & Scripting -->
-<h3>
-<img src="https://img.shields.io/badge/🛠️_TOOLS_&_SYSTEMS-10B981?style=for-the-badge"/>
-</h3>
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git,nginx,neovim,vim&theme=dark" height="80"/>
-
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  Linux       │  CentOS • Ubuntu • systemd • Package Management             │
-│  Bash        │  Scripting • Automation • Process Management                │
-│  Git         │  Version Control • Branching Strategies • Hooks             │
-│  Nginx       │  Reverse Proxy • Load Balancing • Ingress Controller        │
-└─────────────────────────────────────────────────────────────────────────────┘
+                    ████████████████████████████
+                ████                            ████
+              ██    ████████████████████████████    ██
+            ██  ████                            ████  ██
+            ██  ██  ████████████████████████████  ██  ██
+            ██  ██  ██                        ██  ██  ██
+            ██  ██  ██   T E C H  S T A C K   ██  ██  ██
+            ██  ██  ██                        ██  ██  ██
+            ██  ██  ████████████████████████████  ██  ██
+            ██  ████                            ████  ██
+              ██    ████████████████████████████    ██
+                ████                            ████
+                    ████████████████████████████
 ```
 
 </div>
 
-<!-- AWS Detailed Expansion -->
-<details>
-<summary><h3>🔽 EXPAND: AWS Services Deep Dive</h3></summary>
+<br/>
+
+<!-- ═══════════════════ CLOUD & INFRASTRUCTURE ═══════════════════ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-8B5CF6?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/☁️_CLOUD_&_INFRASTRUCTURE-8B5CF6?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-8B5CF6?style=flat-square"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="75" height="75" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="75" height="75" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="75" height="75" />
+<img src="https://skillicons.dev/icons?i=terraform" width="75" height="75" />
+</div>
+
+<br/>
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════╗
-║                              AWS SERVICES PROFICIENCY MATRIX                              ║
-╠═══════════════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                           ║
-║   ┌─────────────────────────────────────────────────────────────────────────────────┐    ║
-║   │  COMPUTE                          │  STORAGE                                    │    ║
-║   │  ─────────────────────────────────│──────────────────────────────────────────── │    ║
-║   │  ████████████████████░░░░ EC2     │  ████████████████████░░░░ S3               │    ║
-║   │  ████████████████░░░░░░░░ EBS     │  ████████████████░░░░░░░░ EFS              │    ║
-║   │  ████████████████████░░░░ ASG     │                                            │    ║
-║   │  ████████████████████░░░░ EB      │                                            │    ║
-║   └─────────────────────────────────────────────────────────────────────────────────┘    ║
-║                                                                                           ║
-║   ┌─────────────────────────────────────────────────────────────────────────────────┐    ║
-║   │  NETWORKING                       │  DATABASE                                   │    ║
-║   │  ─────────────────────────────────│──────────────────────────────────────────── │    ║
-║   │  ████████████████████░░░░ VPC     │  ████████████████████░░░░ RDS              │    ║
-║   │  ████████████████████░░░░ ELB     │  ████████████████░░░░░░░░ ElastiCache      │    ║
-║   │  ████████████████████░░░░ Route53 │  ████████████████░░░░░░░░ Amazon MQ        │    ║
-║   │  ████████████████████░░░░ TG      │                                            │    ║
-║   └─────────────────────────────────────────────────────────────────────────────────┘    ║
-║                                                                                           ║
-║   ┌─────────────────────────────────────────────────────────────────────────────────┐    ║
-║   │  SECURITY & IDENTITY              │  MONITORING & LOGGING                       │    ║
-║   │  ─────────────────────────────────│──────────────────────────────────────────── │    ║
-║   │  ████████████████████░░░░ IAM     │  ████████████████████░░░░ CloudWatch       │    ║
-║   │  ████████████████░░░░░░░░ SG      │  ████████████████░░░░░░░░ CloudWatch Logs  │    ║
-║   └─────────────────────────────────────────────────────────────────────────────────┘    ║
-║                                                                                           ║
-║   Legend: ████ Expert   ░░░░ Proficient                                                  ║
-║                                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════╝
-```
+| Technology | Expertise |
+|:----------:|:----------|
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" width="80"/> | `VPC` `EC2` `ELB` `ASG` `RDS` `S3` `EFS` `CloudWatch` `IAM` `ECR` `Lambda` |
+| <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" width="80"/> | `kOps` `Helm` `Ingress NGINX` `Service Mesh` `Operators` `CRDs` |
+| <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="80"/> | `Compose` `Multi-stage Builds` `Container Orchestration` `Swarm` |
+| <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" width="80"/> | `Infrastructure as Code` `State Management` `Modules` `Workspaces` |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ DEVOPS & CI/CD ═══════════════════ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-6366F1?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/🔧_DEVOPS_&_CI/CD-6366F1?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-6366F1?style=flat-square"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,linux&theme=dark" height="75"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| Technology | Expertise |
+|:----------:|:----------|
+| <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" width="80"/> | `Declarative Pipelines` `Groovy DSL` `Shared Libraries` `Docker Agents` |
+| <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" width="80"/> | `Workflows` `Matrix Builds` `Self-hosted Runners` `Webhooks` |
+| <img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white" width="80"/> | `Multi-VM Orchestration` `Provisioning` `Box Management` |
+| <img src="https://img.shields.io/badge/GitOps-FC6D26?style=flat-square&logo=git&logoColor=white" width="80"/> | `ArgoCD` `Flux` `Continuous Deployment` `Reconciliation` |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ PROGRAMMING LANGUAGES ═══════════════════ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-3B82F6?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/💻_PROGRAMMING_LANGUAGES-3B82F6?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-3B82F6?style=flat-square"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="75" height="75" />
+<img src="https://skillicons.dev/icons?i=go" width="75" height="75" />
+<img src="https://skillicons.dev/icons?i=c" width="75" height="75" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="75" height="75" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| Language | Expertise |
+|:--------:|:----------|
+| <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" width="80"/> | `DSA` `Competitive Programming` `STL` `Memory Management` `OOP` |
+| <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" width="80"/> | `CLI Tools` `Daemons` `Concurrency` `Microservices` `Goroutines` |
+| <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" width="80"/> | `Systems Programming` `Low-level Operations` `Pointers` |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="80"/> | `React.js` `Node.js` `Monaco Editor` `Frontend` `ES6+` |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ TOOLS & SYSTEMS ═══════════════════ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-10B981?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/🛠️_TOOLS_&_SYSTEMS-10B981?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-10B981?style=flat-square"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,git,nginx,neovim,vim&theme=dark" height="75"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| Tool | Expertise |
+|:----:|:----------|
+| <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" width="80"/> | `CentOS` `Ubuntu` `systemd` `Package Management` `Shell` |
+| <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" width="80"/> | `Scripting` `Automation` `Process Management` `Cron` |
+| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" width="80"/> | `Version Control` `Branching Strategies` `Hooks` `Rebasing` |
+| <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" width="80"/> | `Reverse Proxy` `Load Balancing` `Ingress Controller` |
+
+</div>
+
+<br/>
+
+<details>
+<summary><h3>🔽 AWS Services Deep Dive</h3></summary>
+
+<div align="center">
+<br/>
+
+| Category | Services | Proficiency |
+|:--------:|:---------|:-----------:|
+| **Compute** | EC2, Auto Scaling, Elastic Beanstalk, Lambda | ⭐⭐⭐⭐⭐ |
+| **Storage** | S3, EBS, EFS | ⭐⭐⭐⭐⭐ |
+| **Database** | RDS, ElastiCache, Amazon MQ | ⭐⭐⭐⭐ |
+| **Networking** | VPC, ELB, Route53, Target Groups | ⭐⭐⭐⭐⭐ |
+| **Security** | IAM, Security Groups, KMS | ⭐⭐⭐⭐⭐ |
+| **Monitoring** | CloudWatch, CloudWatch Logs | ⭐⭐⭐⭐⭐ |
+| **Containers** | ECR, ECS | ⭐⭐⭐⭐ |
 
 </div>
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> `$ helm list -A --output yaml` (Projects)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> `$ ls -la ~/projects/`
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                        F E A T U R E D   P R O J E C T S                     ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║    ███████╗███████╗ █████╗ ████████╗██╗   ██╗██████╗ ███████╗██████╗     ║
+║    ██╔════╝██╔════╝██╔══██╗╚══██╔══╝██║   ██║██╔══██╗██╔════╝██╔══██╗    ║
+║    █████╗  █████╗  ███████║   ██║   ██║   ██║██████╔╝█████╗  ██║  ██║    ║
+║    ██╔══╝  ██╔══╝  ██╔══██║   ██║   ██║   ██║██╔══██╗██╔══╝  ██║  ██║    ║
+║    ██║     ███████╗██║  ██║   ██║   ╚██████╔╝██║  ██║███████╗██████╔╝    ║
+║    ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝     ║
+║                                                                           ║
+║                        P  R  O  J  E  C  T  S                             ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -405,249 +416,182 @@ Software Developer Intern
 <tr>
 <td width="50%">
 
+<h3 align="center">⚙️ K8s Deployment Daemon</h3>
+<p align="center"><em>Go-Based Kubernetes Orchestration Engine</em></p>
+
 <div align="center">
 
-### ⚙️ K8s Deployment Daemon
-**Go-Based Kubernetes Orchestration Engine**
-
-<a href="https://github.com/itsadijmbt">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</a>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
-```
-┌───────────────────────────────────────┐
-│         DAEMON SPECIFICATIONS         │
-├───────────────────────────────────────┤
-│                                       │
-│  File Watching    ──►  fsnotify       │
-│  Concurrency      ──►  sync.Mutex     │
-│  Updates          ──►  Rolling        │
-│  Rollback         ──►  service.last   │
-│  Alerting         ──►  Slack          │
-│                                       │
-│  STATUS: ● PRODUCTION READY           │
-│                                       │
-└───────────────────────────────────────┘
+```yaml
+specs:
+  file_watching: fsnotify
+  concurrency: sync.Mutex
+  updates: Rolling
+  rollback: service.last
+  alerting: Slack
+  status: "🟢 PRODUCTION"
 ```
 
-**Features:**
-- Real-time file watching with fsnotify
-- Mutex-based concurrency control
+**✨ Features:**
+- Real-time file watching
+- Mutex-based concurrency  
 - Automated rolling updates
-- Safe simultaneous deployments
-- Slack integration for failure alerts
+- Slack failure alerts
 
 <div align="center">
-<a href="https://github.com/itsadijmbt">
-  <img src="https://img.shields.io/badge/📂_View_Source_Code-8B5CF6?style=for-the-badge"/>
-</a>
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/View_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 </td>
 <td width="50%">
 
+<h3 align="center">☸️ Microservices on AWS</h3>
+<p align="center"><em>Production-Grade K8s Architecture</em></p>
+
 <div align="center">
 
-### ☸️ Microservices on AWS
-**Production-Grade Kubernetes Architecture**
-
-<a href="https://github.com/itsadijmbt">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
-```
-┌───────────────────────────────────────┐
-│         DEPLOYMENT METRICS            │
-├───────────────────────────────────────┤
-│                                       │
-│  Deployment Overhead   ↓ 30% lower    │
-│  Cloud Costs           ↓ 60% saved    │
-│  Cluster Type          ──► Single AZ  │
-│  State Backend         ──► S3         │
-│                                       │
-│  STATUS: ● PRODUCTION                 │
-│                                       │
-└───────────────────────────────────────┘
+```yaml
+metrics:
+  deployment_overhead: "↓ 30%"
+  cloud_costs: "↓ 60%"
+  cluster: Single AZ
+  state_backend: S3
+  status: "🟢 PRODUCTION"
 ```
 
-**Features:**
-- kOps managed Kubernetes cluster
-- Ingress NGINX + AWS Load Balancer
-- initContainers for dependency automation
-- Scheduled cron for test cluster lifecycle
+**✨ Features:**
+- kOps managed cluster
+- Ingress NGINX + ALB
+- initContainers automation
 - Route53 DNS integration
 
 <div align="center">
-<a href="https://github.com/itsadijmbt">
-  <img src="https://img.shields.io/badge/📂_View_Source_Code-8B5CF6?style=for-the-badge"/>
-</a>
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/View_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
+<h3 align="center">🔄 RmBuffer</h3>
+<p align="center"><em>Go-Based File Isolation Engine</em></p>
+
 <div align="center">
 
-### 🔄 RmBuffer
-**Go-Based File Isolation Engine**
-
-<a href="https://github.com/itsadijmbt/RmBuffer">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</a>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-```
-┌───────────────────────────────────────┐
-│         PERFORMANCE METRICS           │
-├───────────────────────────────────────┤
-│                                       │
-│  Data Loss Rate       ──►  0%         │
-│  Concurrent Tests     ──►  50+ ✓      │
-│  Recovery Time        ──►  < 2 sec    │
-│  Max Directory Size   ──►  Multi-GB   │
-│                                       │
-│  STATUS: ● BATTLE TESTED              │
-│                                       │
-└───────────────────────────────────────┘
+```yaml
+metrics:
+  data_loss: "0%"
+  concurrent_tests: "50+ passed"
+  recovery_time: "< 2 seconds"
+  capacity: Multi-GB
+  status: "🟢 BATTLE TESTED"
 ```
 
-**Features:**
-- Transforms `rm -rf` into reversible operation
-- Tar streaming backup daemon
-- Goroutines + sync.Mutex for concurrency
-- Bash automation entrypoints
-- Deterministic multi-GB recovery
+**✨ Features:**
+- Reversible `rm -rf` 
+- Tar streaming backup
+- Goroutines + sync.Mutex
+- Multi-GB recovery
 
 <div align="center">
-<a href="https://github.com/itsadijmbt/RmBuffer">
-  <img src="https://img.shields.io/badge/📂_View_Source_Code-8B5CF6?style=for-the-badge"/>
-</a>
+<a href="https://github.com/itsadijmbt/RmBuffer"><img src="https://img.shields.io/badge/View_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 </td>
 <td width="50%">
 
+<h3 align="center">⚡ GoSIC Assembler</h3>
+<p align="center"><em>High-Performance SIC Assembler</em></p>
+
 <div align="center">
 
-### ⚡ GoSIC Assembler TUI
-**High-Performance SIC Assembler**
-
-<a href="https://github.com/itsadijmbt">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bubble_Tea-FF69B4?style=for-the-badge"/>
-</a>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Terminal](https://img.shields.io/badge/TUI-FF69B4?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
 </div>
 
-```
-┌───────────────────────────────────────┐
-│         ASSEMBLER BENCHMARKS          │
-├───────────────────────────────────────┤
-│                                       │
-│  Compilation Time     ──►  12ms       │
-│  Speed vs Browser     ──►  70% faster │
-│  Platform Support     ──►  Cross-OS   │
-│  Interface            ──►  TUI        │
-│                                       │
-│  STATUS: ● BLAZINGLY FAST             │
-│                                       │
-└───────────────────────────────────────┘
+```yaml
+benchmarks:
+  compile_time: "12ms"
+  speed_gain: "70% faster"
+  platform: Cross-OS
+  interface: Bubble Tea TUI
+  status: "🟢 BLAZING FAST"
 ```
 
-**Features:**
-- 70% faster than browser implementations
-- Cross-platform Windows/Linux TUI
-- Bubble Tea + tview for terminal UI
-- Opcode listings & symbol tables
+**✨ Features:**
+- 70% faster than browsers
+- Cross-platform TUI
+- Opcode & symbol tables
 - Text record generation
 
 <div align="center">
-<a href="https://github.com/itsadijmbt">
-  <img src="https://img.shields.io/badge/📂_View_Source_Code-8B5CF6?style=for-the-badge"/>
-</a>
+<a href="https://github.com/itsadijmbt"><img src="https://img.shields.io/badge/View_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
+<h3 align="center">🚀 AWS Elastic Beanstalk</h3>
+<p align="center"><em>Production Cloud Infrastructure</em></p>
+
 <div align="center">
 
-### 🚀 AWS Elastic Beanstalk
-**Production Cloud Infrastructure**
-
-<a href="https://github.com/itsadijmbt">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-</a>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
 
 </div>
 
-```
-┌───────────────────────────────────────┐
-│       INFRASTRUCTURE METRICS          │
-├───────────────────────────────────────┤
-│                                       │
-│  Response Time        ↓ 35% improved  │
-│  Downtime             ↓ 40% reduced   │
-│  Idle Resource Costs  ──► Eliminated  │
-│                                       │
-│  STATUS: ● HIGHLY AVAILABLE           │
-│                                       │
-└───────────────────────────────────────┘
+```yaml
+metrics:
+  response_time: "↓ 35%"
+  downtime: "↓ 40%"
+  idle_costs: Eliminated
+  status: "🟢 HIGHLY AVAILABLE"
 ```
 
-**Tech Stack:**
-`RDS` `Memcached` `RabbitMQ` `S3` `CloudWatch` `Auto Scaling` `VPC` `ELB` `Target Groups`
+**Stack:** `RDS` `Memcached` `RabbitMQ` `S3` `CloudWatch` `Auto Scaling` `VPC` `ELB`
 
 </td>
 <td width="50%">
 
+<h3 align="center">🖥️ Maven Workflow</h3>
+<p align="center"><em>Distributed Linux Environment</em></p>
+
 <div align="center">
 
-### 🖥️ Maven Workflow Provisioning
-**Distributed Linux Environment**
-
-<a href="https://github.com/itsadijmbt">
-  <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/>
-</a>
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 
 </div>
 
-```
-┌───────────────────────────────────────┐
-│       PROVISIONING METRICS            │
-├───────────────────────────────────────┤
-│                                       │
-│  Build-to-Deploy      ↓ 25% faster    │
-│  VMs Orchestrated     ──► Multiple    │
-│  Operating System     ──► CentOS      │
-│  Service Manager      ──► systemd     │
-│                                       │
-│  STATUS: ● AUTOMATED                  │
-│                                       │
-└───────────────────────────────────────┘
+```yaml
+metrics:
+  build_deploy: "↓ 25%"
+  vms: Multiple
+  os: CentOS
+  service: systemd
+  status: "🟢 AUTOMATED"
 ```
 
-**Features:**
-- Vagrant multi-VM orchestration
-- Standardized CentOS deployment
-- Maven build workflow
-- Custom systemd Tomcat service
+**Stack:** `Vagrant` `Maven` `Tomcat` `systemd` `Multi-VM`
 
 </td>
 </tr>
@@ -660,9 +604,19 @@ Software Developer Intern
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                    C O M P E T I T I V E   P R O G R A M M I N G             ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+   ██████╗ ██████╗ ███╗   ███╗██████╗ ███████╗████████╗██╗████████╗██╗██╗   ██╗███████╗
+  ██╔════╝██╔═══██╗████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██║╚══██╔══╝██║██║   ██║██╔════╝
+  ██║     ██║   ██║██╔████╔██║██████╔╝█████╗     ██║   ██║   ██║   ██║██║   ██║█████╗  
+  ██║     ██║   ██║██║╚██╔╝██║██╔═══╝ ██╔══╝     ██║   ██║   ██║   ██║╚██╗ ██╔╝██╔══╝  
+  ╚██████╗╚██████╔╝██║ ╚═╝ ██║██║     ███████╗   ██║   ██║   ██║   ██║ ╚████╔╝ ███████╗
+   ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚══════╝   ╚═╝   ╚═╝   ╚═╝   ╚═╝  ╚═══╝  ╚══════╝
+                                                                                        
+                    ██████╗ ██████╗  ██████╗  ██████╗ ██████╗  █████╗ ███╗   ███╗       
+                    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝ ██╔══██╗██╔══██╗████╗ ████║       
+                    ██████╔╝██████╔╝██║   ██║██║  ███╗██████╔╝███████║██╔████╔██║       
+                    ██╔═══╝ ██╔══██╗██║   ██║██║   ██║██╔══██╗██╔══██║██║╚██╔╝██║       
+                    ██║     ██║  ██║╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║       
+                    ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝       
 ```
 
 <br/>
@@ -671,55 +625,40 @@ Software Developer Intern
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/🏆-FFD700?style=for-the-badge" width="80" height="80"/>
+<img src="https://img.shields.io/badge/🏆_ICPC_REGIONALIST-FFD700?style=for-the-badge&labelColor=1e1e2e" width="250"/>
 
-### ICPC REGIONALIST
+<br/><br/>
 
-```
-╔═══════════════════════════════════╗
-║                                   ║
-║         R A N K   # 4 0 6         ║
-║                                   ║
-║      ████████████████████████     ║
-║      █                      █     ║
-║      █   ASIA REGIONAL      █     ║
-║      █                      █     ║
-║      █   ✓ CERTIFIED        █     ║
-║      █                      █     ║
-║      ████████████████████████     ║
-║                                   ║
-╚═══════════════════════════════════╝
-```
+### **RANK #406**
+#### Asia Regional
 
-**Elite competitive programmer**  
+<br/>
+
+*Elite competitive programmer*  
 *among thousands of participants*
+
+<br/>
+
+<img src="https://img.shields.io/badge/✓_CERTIFIED-FFD700?style=flat-square"/>
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/💻-1F8ACB?style=for-the-badge" width="80" height="80"/>
+<img src="https://img.shields.io/badge/💻_CODEFORCES_PUPIL-1F8ACB?style=for-the-badge&labelColor=1e1e2e" width="250"/>
 
-### CODEFORCES PUPIL
+<br/><br/>
 
-```
-╔═══════════════════════════════════╗
-║                                   ║
-║      1 5 0 0 +   S O L V E D      ║
-║                                   ║
-║      ████████████████████████     ║
-║      █                      █     ║
-║      █   ALGORITHMIC        █     ║
-║      █   MASTERY            █     ║
-║      █                      █     ║
-║      █   ● ACTIVE           █     ║
-║      █                      █     ║
-║      ████████████████████████     ║
-║                                   ║
-╚═══════════════════════════════════╝
-```
+### **1500+ SOLVED**
+#### Algorithmic Mastery
 
-**Problem-solving expertise**  
+<br/>
+
+*Problem-solving expertise*  
 *across multiple domains*
+
+<br/>
+
+<img src="https://img.shields.io/badge/●_ACTIVE-10B981?style=flat-square"/>
 
 </td>
 </tr>
@@ -730,7 +669,7 @@ Software Developer Intern
 <a href="https://codeforces.com/profile/itsadijmbt">
   <img src="https://img.shields.io/badge/Codeforces-itsadijmbt-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://icpc.global">
   <img src="https://img.shields.io/badge/ICPC-Rank_406-FFD700?style=for-the-badge"/>
 </a>
@@ -739,14 +678,17 @@ Software Developer Intern
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="40"> `$ cat /var/log/github/analytics.log`
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="40"> `$ cat /var/log/github.log`
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         G I T H U B   A N A L Y T I C S                      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+ ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗      █████╗ ███╗   ██╗ █████╗ ██╗  ██╗   ██╗████████╗██╗ ██████╗███████╗
+██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ██╔══██╗████╗  ██║██╔══██╗██║  ╚██╗ ██╔╝╚══██╔══╝██║██╔════╝██╔════╝
+██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝    ███████║██╔██╗ ██║███████║██║   ╚████╔╝    ██║   ██║██║     ███████╗
+██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗    ██╔══██║██║╚██╗██║██╔══██║██║    ╚██╔╝     ██║   ██║██║     ╚════██║
+╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝    ██║  ██║██║ ╚████║██║  ██║███████╗██║      ██║   ██║╚██████╗███████║
+ ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝      ╚═╝   ╚═╝ ╚═════╝╚══════╝
 ```
 
 <br/>
@@ -766,81 +708,79 @@ Software Developer Intern
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> `$ fortune | cowsay -f tux`
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> `$ fortune | lolcat`
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                           D A I L Y   W I S D O M                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<!-- Dynamic Quote that changes daily -->
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Programming Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Quote"/>
 </a>
 
 <br/><br/>
 
-<!-- Dev Joke -->
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%238B5CF6&aColor=%23c9d1d9&borderColor=%238B5CF6&bgColor=%230d1117" alt="Dev Joke"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%238B5CF6&aColor=%23c9d1d9&borderColor=%238B5CF6&bgColor=%230d1117" alt="Joke"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## <img src="https://media.giphy.com/media/pUeXcg80cO8I8/giphy.gif" width="40"> `$ netstat -tulpn | grep ESTABLISHED`
+## <img src="https://media.giphy.com/media/pUeXcg80cO8I8/giphy.gif" width="40"> `$ netstat -tulpn`
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                    E S T A B L I S H I N G   C O N N E C T I O N            ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║    Proto   Local Address          Service              Status               ║
-║    ─────   ─────────────          ───────              ──────               ║
-║    tcp     linkedin.com:443       Professional         ● LISTENING          ║
-║    tcp     github.com:443         Open Source          ● LISTENING          ║
-║    tcp     codeforces.com:443     Competitive          ● LISTENING          ║
-║                                                                              ║
-║    ══════════════════════════════════════════════════════════════════════   ║
-║                                                                              ║
-║           🟢  STATUS: Ready to accept incoming connections                  ║
-║           📡  MODE: Open for collaboration                                  ║
-║           🚀  INTEREST: Platform Engineering, Go CLI, K8s Operators         ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+```sql
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                   ┃
+┃                         E S T A B L I S H I N G   C O N N E C T I O N                            ┃
+┃                                                                                                   ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃   PROTO    LOCAL ADDRESS              SERVICE                STATUS                              ┃
+┃   ─────    ─────────────              ───────                ──────                              ┃
+┃   tcp      linkedin.com:443           Professional           🟢 LISTENING                        ┃
+┃   tcp      github.com:443             Open Source            🟢 LISTENING                        ┃
+┃   tcp      codeforces.com:443         Competitive            🟢 LISTENING                        ┃
+┃   tcp      peerlist.io:443            Portfolio              🟢 LISTENING                        ┃
+┃   tcp      dev.to:443                 Tech Blog              🟢 LISTENING                        ┃
+┃   tcp      buymeacoffee.com:443       Support                🟢 LISTENING                        ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                                                                                   ┃
+┃   🚀 STATUS: Ready to accept incoming connections                                                ┃
+┃   📡 MODE: Open for collaboration                                                                ┃
+┃   🎯 INTEREST: Platform Engineering, Go CLI, K8s Operators                                       ┃
+┃                                                                                                   ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 <br/>
 
 <a href="https://www.linkedin.com/in/aditya-bhatt-a8010224b/">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/itsadijmbt">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/itsadijmbt">
-  <img src="https://img.shields.io/badge/Codeforces_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<a href="https://peerlist.io/itsadijmbt">
+  <img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white"/>
+</a>
+<a href="https://dev.to/itsadijmbt">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+<a href="https://www.buymeacoffee.com/itsadijmbt">
+  <img src="https://img.shields.io/badge/Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 
 <br/><br/>
 
 ```
- ╭──────────────────────────────────────────────────────────────────────────╮
- │                                                                          │
- │   💡 "I find architecting a self-deploying Kubernetes cluster           │
- │        to be the most rewarding contest of all."                        │
- │                                                                          │
- ╰──────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│                                                                             │
+│   💡 "I find architecting a self-deploying Kubernetes cluster              │
+│        to be the most rewarding contest of all."                           │
+│                                                                             │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
 <br/>
@@ -853,5 +793,4 @@ Software Developer Intern
 
 </div>
 
-<!-- Epic Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=120&section=footer&animation=twinkling"/>
