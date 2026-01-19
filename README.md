@@ -288,12 +288,12 @@ Software Developer Intern
 <br/>
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  Jenkins       │  Declarative Pipelines • Groovy DSL • Shared Libraries    │
-│  GitHub Actions│  Workflows • Matrix Builds • Self-hosted Runners          │
-│  Vagrant       │  Multi-VM Orchestration • Provisioning • Box Management   │
-│  GitOps        │  ArgoCD • Flux • Continuous Deployment                    │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────────────┐
+│  Jenkins       │  Declarative Pipelines • Groovy DSL • Shared Libraries • Docker Agents     │
+│  GitHub Actions│  Workflows • Workflows • Webhooks                                          │
+│  Vagrant       │  Multi-VM Orchestration • Provisioning • Box Management                    │
+│  GitOps        │  Continuous Deployment                                                     │
+└──────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
